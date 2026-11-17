@@ -1,0 +1,6 @@
+{
+  "name": "EducaFinance AI",
+  "description": "Estúdio interativo de educação financeira em PT-BR com o assistente Edu (chat, voz ao vivo e raciocínio profundo), trilha de aprendizado guiado adaptativa, simulador de juros compostos e diagnóstico 50/30/20.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
